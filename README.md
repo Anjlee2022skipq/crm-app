@@ -18,9 +18,6 @@ Open [http://localhost:19000](http://localhost:19000) to view it in your browser
 
 ### To view the app in mobile
 
-`install the expo go app from PlayStore or AppleStore`
+`$ install the expo go app from PlayStore or AppleStore`
 
 Scan the QR code with Expo Go (Android) or the Camera app (iOS)
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
